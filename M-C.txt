@@ -1596,7 +1596,6 @@ proxies:
     cipher: chacha20-ietf-poly1305
     password: 78b6e93e54225803
     udp: true
-# محل تغییر ساب ها
   - name: "MEHMMET🇳🇱"
     type: trojan
     server: www.multiplydose.com
