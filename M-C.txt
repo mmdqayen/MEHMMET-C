@@ -2201,7 +2201,7 @@ proxy-groups:
     type: select
     proxies: 
       - "CAYEN • T ✨🥂"
-	  - "CAYEN • T ✨🍷"
+	- "CAYEN • T ✨🍷"
       
   - name: "CAYEN • T ✨🥂"
     type: url-test
