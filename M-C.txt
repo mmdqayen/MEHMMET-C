@@ -378,7 +378,7 @@ proxies:
     skip-cert-verify: false
     network: ws
     ws-opts:
-      path: //@BullShit_iu telegramNadia
+      path: "//@BullShit_iu telegramNadia"
       headers:
         host: ''
     udp: true
@@ -852,14 +852,14 @@ proxies:
     server: 95.85.250.78
     port: 443
     cipher: none
-    password: "https://t.me/WangCai2ð\x9F\x87¨ðÇ³"
+    password: "https://t.me/WangCai2"
     udp: true
   - name: "Mehmmet 58"
     type: ss
     server: 90.156.211.232
     port: 8443
     cipher: none
-    password: "https://t.me/WangCai2ð\x9F\x87¨ðÇ³"
+    password: "https://t.me/WangCai2"
     udp: true
   - name: "Mehmmet 59"
     type: trojan
@@ -919,7 +919,7 @@ proxies:
     server: 211.178.105.134
     port: 6123
     cipher: aes-256-cfb
-    password: qwerREWQ@@
+    password: "qwerREWQ@@"
     udp: true
   - name: "Mehmmet 67"
     type: ss
@@ -1018,7 +1018,7 @@ proxies:
     type: trojan
     server: 104.19.241.122
     port: 443
-    password: NISHIKUITAN111
+    password: "NISHIKUITAN111"
     tls: true
     sni: ''
     network: tcp
@@ -1029,7 +1029,7 @@ proxies:
     type: trojan
     server: 83.147.253.187
     port: 443
-    password: 8r<[9'l6hAO#8ZQi
+    password: "8r<[9'l6hAO#8ZQi"
     tls: true
     sni: Koma-YT.PAGeS.Dev
     network: tcp
@@ -1057,8 +1057,7 @@ proxies:
     servername: ''
     network: ws
     ws-opts:
-      path: >-
-        /?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048
+      path: "/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048"
       headers:
         host: GrOUnDeD-LAWx074si24r8.CARbONblacKbMw.Ir.
     tfo: false
@@ -1372,7 +1371,7 @@ proxies:
     type: trojan
     server: 81.85.77.14
     port: 2083
-    password: 8r<[9'l6hAO#8ZQi
+    password: "8r<[9'l6hAO#8ZQi"
     tls: true
     sni: Koma-YT.PAGeS.Dev
     network: tcp
@@ -1489,7 +1488,7 @@ proxies:
     type: trojan
     server: 198.12.145.253
     port: 443
-    password: 8r<[9'l6hAO#8ZQi
+    password: "8r<[9'l6hAO#8ZQi"
     tls: true
     sni: Koma-YT.PAGeS.Dev
     network: tcp
@@ -1560,7 +1559,7 @@ proxies:
     type: trojan
     server: 23.227.193.173
     port: 443
-    password: AZWY=WAZk5TeVYmMUudr2xmeb00I3ymeMQ
+    password: "AZWY=WAZk5TeVYmMUudr2xmeb00I3ymeMQ"
     tls: true
     sni: www.dataset-logger.click
     network: tcp
@@ -1571,7 +1570,7 @@ proxies:
     type: trojan
     server: 130.94.3.146
     port: 443
-    password: DX4wKmVl.CNIjwO5CYf7_qg+f1eMN4yt_F
+    password: "DX4wKmVl.CNIjwO5CYf7_qg+f1eMN4yt_F"
     tls: true
     sni: www.event-snapshot.click
     network: tcp
@@ -1582,7 +1581,7 @@ proxies:
     type: trojan
     server: 185.143.235.5
     port: 443
-    password: biS(YrwB,3L$
+    password: "biS(YrwB,3L$"
     tls: true
     sni: mydigipay.com
     network: tcp
